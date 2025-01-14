@@ -206,6 +206,7 @@ def update_plot(selected_project, selected_floor_area):
             "Sell Date": True,
             "Area (sqft)": True,
             "Address": True,
+            "Original Price (SGD)": True,
             "Transacted Price (SGD)": True,
             "Gain/Loss": False,
             "Gain/Loss Category": False
